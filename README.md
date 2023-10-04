@@ -1,5 +1,5 @@
-# Aufgabe
-# Git und GitHub
+# Das kleine 1*1 für Git
+
 
 ## Was ist Git?
 Git ist ein verteiltes Versionskontrollsystem, das häufig zur Verwaltung von Quellcode in Softwareprojekten verwendet wird. Es ermöglicht Entwicklern, Änderungen am Code zu verfolgen, zusammenzuführen und zu verwalten.
